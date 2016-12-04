@@ -1,0 +1,6 @@
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson7\HomeWork7_ISorter\HomeWork7_ISorter\bin\Debug\HomeWork7_ISorter.exe.config
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson7\HomeWork7_ISorter\HomeWork7_ISorter\bin\Debug\HomeWork7_ISorter.exe
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson7\HomeWork7_ISorter\HomeWork7_ISorter\bin\Debug\HomeWork7_ISorter.pdb
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson7\HomeWork7_ISorter\HomeWork7_ISorter\obj\Debug\HomeWork7_ISorter.csprojResolveAssemblyReference.cache
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson7\HomeWork7_ISorter\HomeWork7_ISorter\obj\Debug\HomeWork7_ISorter.exe
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson7\HomeWork7_ISorter\HomeWork7_ISorter\obj\Debug\HomeWork7_ISorter.pdb
